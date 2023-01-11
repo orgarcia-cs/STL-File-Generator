@@ -1,0 +1,2 @@
+clear
+g++ -std=gnu++11 stl.cpp -o a.out -pthread
